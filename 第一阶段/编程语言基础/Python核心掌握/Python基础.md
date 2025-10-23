@@ -23,13 +23,41 @@
 
 ## 环境与工具
 - 安装（Windows / macOS / Linux）
+
 - Python 版本管理（pyenv、asdf、Windows Store、官方安装包）
+
 - 虚拟环境（venv、virtualenv、conda）
+
 - 常用 IDE / 编辑器（VS Code、PyCharm、Vim）
+
 - 包管理（pip、pipx、poetry）
+
 - 记录：
-    - 安装步骤：
-    - 常用配置：
+    
+    1.安装步骤：
+    
+    1. 打开网址：[Welcome to Python.org](https://www.python.org/)
+    
+    2. 下载Python
+    
+    ![image-20251023175159491](./assets/image-20251023175159491.png)
+    
+    3. 打开安装包勾选√
+    
+    ![image-20251023175500012](./assets/image-20251023175500012.png)
+    
+    4. Win+R打开CMD输入
+    
+    ```cmd
+    python -version
+    pip --version
+    ```
+    
+    查看输出
+    
+    ![image-20251023175636337](./assets/image-20251023175636337.png)
+    
+    1. 常用配置：
 
 ## 语法与基本概念
 - 注释、编码声明
